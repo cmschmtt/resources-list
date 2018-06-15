@@ -2,6 +2,10 @@
 
 YALL (yet another linkdump list.) This is for personal reference only and is not intended as recommendation or endorsement.
 
+## General Productivity
+* [EditGym](http://www.editgym.com/text-editing-training/?page=exercises) for drilling best keyboard practices. Written with PC users in mind, but the exercises generally translate to OSX.
+* [ShortcutFoo](https://www.shortcutfoo.com/). Have only drilled Vim so far; GUI can be a bit buggy.
+
 ## Style Transfer
 * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
 * Gene Kogan's [experiments/art](http://genekogan.com/works/style-transfer/)
